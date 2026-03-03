@@ -44,7 +44,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='zif8_calculator',
+    name='zif_calculator',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
